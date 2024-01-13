@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "SVN-Athena" ;
+    src: url(../fonts/SVN-Athene.otf);
+}
+@font-face {
+    font-family: "SVN-Signature" ;
+    src: url(../fonts/SVN-Athena\ Signature.otf);
+}
+@font-face {
+    font-family: "Roboto-Bold" ;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
